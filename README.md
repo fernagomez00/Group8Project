@@ -9,14 +9,11 @@ SE452 DePaul University Spring 2024
 
 
 | **Key Features** | **Implemented** |
-| -------------------------------------------------- | ---- |
-| assign admin entity | no |
-| create university entity | no |
-| create student entity | no |
-| create instructor entity | no |
-| managing courses | no |
-| access classes | no |
-| sense of date and time | no | 
+| ------------------------------------------------------------------- | ---- |
+| admin adds/edits/deletes courses/students/teachers/institution  | no |
+| teacher edits course content | no |
+| student accesses course content | no |
+| sense of date and time ?| no | 
 | login | no |
 | security | no |
 
