@@ -25,7 +25,7 @@ SE452 DePaul University Spring 2024
 
 | Member | Area  | Saying |
 | ----------- | ----------- | --- |
-| John Smillie | Administration Class, Teacher Class | Above and Beyond
+| John Smillie | Admini, Teacher, Institution | Above and Beyond
 |  | TBD  | TBD
 |  |   |
 |  |  |
