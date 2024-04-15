@@ -21,8 +21,6 @@ SE452 DePaul University Spring 2024
 <br>
 
 
-
-
 ## Project Members
 
 | Member | Area  | Saying |
@@ -33,6 +31,20 @@ SE452 DePaul University Spring 2024
 |  |  |
 |  |  |
 <br/>
+
+## Items to Address
+- Persistence
+  - h2 for local environments
+  - Decide on staging/production DB (postgres,mysql,other)
+- Environments
+  - local
+  - staging
+  - production
+- Logging
+  - which service?
+- Error handling
+- Tests
+
 
 ## Conflict Resolution
 Democratic voting
