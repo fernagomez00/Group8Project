@@ -25,7 +25,7 @@ SE452 DePaul University Spring 2024
 
 | Member | Area  | Saying |
 | ----------- | ----------- | --- |
-| John Smillie | Admini, Teacher, Institution | Above and Beyond
+| John Smillie | Admin, Teacher, Institution | Above and Beyond
 |  | TBD  | TBD
 |  |   |
 |  |  |
@@ -36,6 +36,8 @@ SE452 DePaul University Spring 2024
 - Persistence
   - h2 for local environments
   - Decide on staging/production DB (postgres,mysql,other)
+  - CRUD interface (wrap DB calls in API?)
+  - JPA -> map classes and tables
 - Environments
   - local
   - staging
