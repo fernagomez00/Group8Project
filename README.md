@@ -4,18 +4,19 @@ SE452 DePaul University Spring 2024
 
 ## Overview of the project:
 
-> Object-Oriented Enterprise Application: **D2L** (Learning Management System)
+> Object-Oriented Enterprise Application: Bank
 
 
 
 | **Key Features** | **Implemented** |
 | ------------------------------------------------------------------- | ---- |
-| admin adds/edits/deletes courses/students/teachers/institution  | no |
-| teacher edits course content | no |
-| student accesses course content | no |
-| sense of date and time ?| no | 
-| login | no |
+| open new account  | no |
+| close existing account | no |
+| deposit money | no |
+| withdraw money | no | 
+| add account holders | no |
 | security | no |
+| authentication | no |
 
 
 <br>
@@ -25,7 +26,7 @@ SE452 DePaul University Spring 2024
 
 | Member | Area  | Saying |
 | ----------- | ----------- | --- |
-| John Smillie | Admin, Teacher, Institution | Above and Beyond
+| John Smillie |  | Above and Beyond
 |  | TBD  | TBD
 |  |   |
 |  |  |
