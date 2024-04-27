@@ -9,14 +9,18 @@ SE452 DePaul University Spring 2024
 
 
 | **Key Features** | **Implemented** |
-| ------------------------------------------------------------------- | ---- |
-| open new account  | no |
-| close existing account | no |
+| -------------------------------------------------------| ---- |
 | deposit money | no |
 | withdraw money | no | 
-| add account holders | no |
-| security | no |
-| authentication | no |
+| transfer money | no |
+| check account info | no |
+| authorization (login) | no |
+| | |
+| additional projects: | |
+| teller open/close accounts | |
+| additional account types | |
+| teller adds account holders |  |
+
 
 
 <br>
@@ -34,6 +38,7 @@ SE452 DePaul University Spring 2024
 <br/>
 
 ## Items to Address
+> ROUTE: Class defs -> Entity mapping -> CRUD ops (JpaRepository) -> Controller defs (@RestController) -> Service defs (@Service)
 - Persistence
   - h2 for local environments
   - Decide on staging/production DB (postgres,mysql,other)
