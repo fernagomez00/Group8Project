@@ -1,5 +1,7 @@
 package edu.depaul.cdm.se452.Group8Project.checking;
 
-public class CheckingAccountRepository {
+import edu.depaul.cdm.se452.Group8Project.AccountRepository;
+
+public interface CheckingAccountRepository extends AccountRepository<CheckingAccount> {
   
 }
