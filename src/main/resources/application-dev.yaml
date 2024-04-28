@@ -1,0 +1,9 @@
+#environment: development
+
+
+
+spring:
+  datasource:
+    url: jdbc:h2:mem:b8
+  jpa:
+    show-sql: true
