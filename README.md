@@ -3,8 +3,14 @@
 SE452 DePaul University Spring 2024
 
 ## Overview of the project:
-
 > Object-Oriented Enterprise Application: Bank
+
+- Software for bank transactions. 
+- Enables tellers to preform in-branch and web-based electronic services, and customers to perform web-based electronic services.  
+- Tellers can deposit, withdraw, and transfer funds, check account information (balances,...), and open/close accounts. 
+- Customers can view account information (balances,...), and move funds electronically.
+
+
 
 
 
@@ -30,7 +36,7 @@ SE452 DePaul University Spring 2024
 
 | Member | Area  | Saying |
 | ----------- | ----------- | --- |
-| John Smillie |  | Above and Beyond
+| John Smillie | Checking Account / User Roles | Above and Beyond
 |  | TBD  | TBD
 |  |   |
 |  |  |
