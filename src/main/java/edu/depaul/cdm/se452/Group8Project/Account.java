@@ -23,9 +23,13 @@ public abstract class Account{
     @Id
     @GeneratedValue (strategy = GenerationType.SEQUENCE)
     protected Integer id; // in-house number
+
+    //TODO define relationship to account
+    protected Integer prim; // the primary account holder
+    
     private Double balance;
     /*protected Integer number; // customer account number
-    protected Integer primary; // the primary account holder
+    
     protected Integer pin;
     */
 
