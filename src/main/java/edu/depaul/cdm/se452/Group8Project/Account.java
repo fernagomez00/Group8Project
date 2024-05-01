@@ -26,11 +26,9 @@ public abstract class Account{
 
     //TODO define relationship to account
     protected Integer prim; // the primary account holder
-    
-    private Double balance;
-    /*protected Integer number; // customer account number
-    
+    protected Double balance;
+    protected Integer number; // customer account number
     protected Integer pin;
-    */
+    
 
 }

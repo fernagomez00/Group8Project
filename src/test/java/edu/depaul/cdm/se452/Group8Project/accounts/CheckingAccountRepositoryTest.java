@@ -5,6 +5,7 @@ import edu.depaul.cdm.se452.Group8Project.checking.CheckingAccountRepository;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotEquals;
 
+import org.glassfish.jaxb.runtime.v2.schemagen.xmlschema.List;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -36,7 +37,7 @@ private CheckingAccountRepository repo;
     ca1.setDebit(false);
     long b4 = repo.count();
     repo.save(ca1);
-    long af = repo.count();
+    long af = repo.count();;
     assertEquals(0, b4);
     assertEquals(1, af);
   }
