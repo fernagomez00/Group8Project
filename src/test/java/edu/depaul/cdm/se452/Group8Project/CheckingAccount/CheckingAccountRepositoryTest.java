@@ -1,14 +1,13 @@
 package edu.depaul.cdm.se452.Group8Project.CheckingAccount;
 import edu.depaul.cdm.se452.Group8Project.checking.CheckingAccount;
 import edu.depaul.cdm.se452.Group8Project.checking.CheckingAccountRepository;
-
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotEquals;
-
-import org.glassfish.jaxb.runtime.v2.schemagen.xmlschema.List;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
+
+
 
 
 
@@ -17,6 +16,7 @@ public class CheckingAccountRepositoryTest {
 
 @Autowired
 private CheckingAccountRepository repo;
+
 
   @Test
   public void testLombok(){
