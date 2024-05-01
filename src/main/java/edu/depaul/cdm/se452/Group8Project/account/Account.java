@@ -1,4 +1,4 @@
-package edu.depaul.cdm.se452.Group8Project;
+package edu.depaul.cdm.se452.Group8Project.account;
 
 
 import jakarta.persistence.Entity;

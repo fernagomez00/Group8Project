@@ -1,7 +1,7 @@
 package edu.depaul.cdm.se452.Group8Project.checking;
 
 
-import edu.depaul.cdm.se452.Group8Project.Account;
+import edu.depaul.cdm.se452.Group8Project.account.Account;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Table;
 import lombok.AllArgsConstructor;

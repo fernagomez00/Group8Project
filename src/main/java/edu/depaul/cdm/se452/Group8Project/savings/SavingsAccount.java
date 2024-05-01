@@ -1,5 +1,6 @@
-package edu.depaul.cdm.se452.Group8Project;
+package edu.depaul.cdm.se452.Group8Project.savings;
 
+import edu.depaul.cdm.se452.Group8Project.account.Account;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Table;
 import lombok.AllArgsConstructor;
