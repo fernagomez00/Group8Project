@@ -1,3 +1,5 @@
+package edu.depaul.cdm.se452.Group8Project;
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.Table;
 import lombok.AllArgsConstructor;
