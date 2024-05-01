@@ -23,6 +23,5 @@ public class SavingsAccount extends Account {
         this.intRate = intRate;
     }
 
-    // Will set Getters and setters
     // Will add other methods specific to SavingsAccount
 }
