@@ -32,9 +32,12 @@ private CheckingAccountRepository repo;
   @Test
   public void testAddCheckingAccount(){
     CheckingAccount ca1 = new CheckingAccount();
-    ca1.setId(1);
+    //ca1.setId(1);
+    ca1.setAccountNumber(1234567);
+    ca1.setPrimaryHolderId(5000);
     ca1.setBalance(100.00);
     ca1.setDebit(false);
+    ca1.setPin(1234);
     long b4 = repo.count();
     repo.save(ca1);
     long af = repo.count();;
